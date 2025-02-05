@@ -1,0 +1,17 @@
+---
+title: "PSY504 - Cultural Capital"
+output-dir: doc
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+
+project:
+  type: website
+  output-dir: docs
+---

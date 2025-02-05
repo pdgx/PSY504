@@ -1,0 +1,11 @@
+---
+title: "Different Forms of Cultural Capital"
+author: "Priscilla Diaz-Gonzalez"
+date: "2025-02-05"
+categories: [news, code, analysis]
+image: "Links.jpg"
+---
+
+I am investigating the links between the different forms of cultural capital and psychosocial adjustment outcomes.
+
+![](/posts/post-with-code/Links.jpg)

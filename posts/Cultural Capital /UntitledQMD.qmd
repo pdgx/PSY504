@@ -1,0 +1,11 @@
+---
+title: "Different Forms of Cultural Capital"
+author: "Priscilla Diaz-Gonzalez"
+date: "2025-02-05"
+categories: [news, code, analysis]
+image: "Effect Sizes.pdf"
+---
+
+I am investigating the links between the different forms of cultural capital and psychosocial adjustment outcomes. Below is an plot illustrating the effect sizes of various forms of cultural capital.
+
+![](/posts/post-with-code/Effect Sizes Cultural Capital.jpg)

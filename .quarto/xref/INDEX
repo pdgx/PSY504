@@ -1,0 +1,20 @@
+{
+  "index.qmd": {
+    "index.html": "6d032b38"
+  },
+  "posts/post-with-code/index.qmd": {
+    "index.html": "63ac6577"
+  },
+  "posts/welcome/index.qmd": {
+    "index.html": "f9a8a27d"
+  },
+  "about.qmd": {
+    "about.html": "9394f1bd"
+  },
+  "posts/Cultural Capital /UntitledQMD.qmd": {
+    "UntitledQMD.html": "69ff4966"
+  },
+  "posts/Cultural Capital /CulCapEffectSize.qmd": {
+    "CulCapEffectSize.html": "c213bc88"
+  }
+}
